@@ -42,7 +42,7 @@ CalculateDate()
 ```
 
 ## Class Name
-- ใช้รูปแบบการตั้งชื่อคลาสเป็นแบบ **Pascal Case (Upper Camel Case)** ขึ้นต้นด้วยตัวอักษรพิมพ์ใหญ่ g=jo
+- ใช้รูปแบบการตั้งชื่อคลาสเป็นแบบ **Pascal Case (Upper Camel Case)** ขึ้นต้นด้วยตัวอักษรพิมพ์ใหญ่ เช่น
 ```
 Employee.cs
 TestEmployee.cs
